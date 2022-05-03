@@ -1,0 +1,48 @@
+---
+title: "Gutenberg"
+author: "MacKenzye Leroy"
+date: "4/12/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r cars}
+install.packages("gutenbergr")
+```
+
+```{r}
+library(dplyr)
+library(gutenbergr)
+
+```
+
+```{r}
+top100 <- read.csv('Top100SciFiBooks.csv')
+top200 <- read.csv('Top200SciFiBooks.csv')
+top500 <- read.csv('Top500SciFiBooks.csv')
+WellsAndVerne <- read.csv('FinalSetVerneAndWells.csv')
+```
+
+```{r}
+setwd("~/Documents/MSDS/DS5001/FinalProject/HGWellsAndJulesVerne")
+for(x in WellsAndVerne$Book_No){
+  book <- gutenberg_download(c(x), meta_fields = "title")
+  title <- head(book$title, 1)
+  file_name <- gsub(" ", '_', title)
+  file_name <- paste(file_name, '.txt')
+  file_name <- gsub(" ", "", file_name)
+  txt <-book$text
+  writeLines(txt, file_name)
+  print(paste(file_name, " exported"))
+}
+```
+
+
+
+
+

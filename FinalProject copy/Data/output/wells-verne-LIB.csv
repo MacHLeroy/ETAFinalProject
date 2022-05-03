@@ -1,0 +1,21 @@
+book_id,source_file_path,title,author,chap_regex,book_len,n_chaps
+35,WELLS__35__The_Time_Machine.txt,The Time Machine,"WELLS, H.G",^\s*CHAPTER\s+[[IVXLCM]+\.,32506,17
+44278,VERNE__44278__From_the_Earth_to_the_Moon.txt,From the Earth to the Moon,"VERNE, JULES",^\s*CHAPTER\s+[IVXLCM]+\.,40559,28
+1355,VERNE__1355__The_Underground_City.txt,The Underground City,"VERNE, JULES",^\s*CHAPTER\s+[IVXLCM]+\.,43662,19
+159,WELLS__159__The_Island_of_Doctor_Moreau.txt,The Island of Doctor Moreau,"WELLS, H.G",(INTRODUCTION.)|^\s*CHAPTER\s+[IVXLCM]+\.,43782,23
+5230,WELLS__5230__The_Invisible_Man_A_Grotesque_Romance.txt,The Invisible Man A Grotesque Romance,"WELLS, H.G",^\s*CHAPTER\s+[IVXLCM]+\.,48562,28
+36,WELLS__36__The_War_of_the_Worlds.txt,The War of the Worlds,"WELLS, H.G",^\s*CHAPTER\s+[IVXLCM]+\.,60129,27
+103,VERNE__103__Around_the_World_in_Eighty_Days.txt,Around the World in Eighty Days,"VERNE, JULES",^\s*CHAPTER\s+[IVXLCM]+\.,63114,37
+1013,WELLS__1013__The_First_Men_in_the_Moon.txt,The First Men in the Moon,"WELLS, H.G",^\s*CHAPTER\s+[IVXLCM]+\.,68534,26
+12163,WELLS__12163__The_Sleeper_Awakes.txt,The Sleeper Awakes,"WELLS, H.G",^CHAPTER\s+[IVXLCM]+,75981,25
+18857,VERNE__18857__A_Journey_to_the_Centre_of_the_Earth.txt,A Journey to the Centre of the Earth,"VERNE, JULES",^CHAPTER\s+\d+$,86039,44
+3526,VERNE__3526__Five_Weeks_in_a_Balloon.txt,Five Weeks in a Balloon,"VERNE, JULES","^\s*CHAPTER\s+[A-Z';, -]+\.",90793,44
+3091,VERNE__3091__Eight_Hundred_Leagues_on_the_Amazon.txt,Eight Hundred Leagues on the Amazon,"VERNE, JULES",^\s*CHAPTER\s+[IVXLCM]+\.,95162,40
+16457,VERNE__16457__All_Around_the_Moon.txt,All Around the Moon,"VERNE, JULES",^\s*CHAPTER\s+[IVXLCM]+\.,97152,24
+780,WELLS__780__The_War_in_the_Air.txt,The War in the Air,"WELLS, H.G",^\s*CHAPTER\s+[IVXLCM]+\.,98207,11
+1353,VERNE__1353__Off_on_a_Comet!.txt,Off on a Comet!,"VERNE, JULES",^\s*CHAPTER\s+[IVXLCM]+\.,100671,43
+164,VERNE__164__Twenty_Thousand_Leagues_under_the_Sea.txt,Twenty Thousand Leagues under the Sea,"VERNE, JULES",^CHAPTER\s+\d+$,103694,46
+1059,WELLS__1059__The_World_Set_Free.txt,The World Set Free,"WELLS, H.G","^\s*CHAPTER\sTHE\s[A-Z';, -]+",115742,5
+718,WELLS__718__Tono-Bungay.txt,Tono-Bungay,"WELLS, H.G","^\s*CHAPTER\sTHE\s[A-Z';, -]+",134677,14
+6424,WELLS__6424__A_Modern_Utopia.txt,A Modern Utopia,"WELLS, H.G","^\s*CHAPTER\sTHE\s[A-Z';, -]+",183804,11
+1268,VERNE__1268__The_Mysterious_Island.txt,The Mysterious Island,"VERNE, JULES",^Chapter\s+\d+$,194229,62

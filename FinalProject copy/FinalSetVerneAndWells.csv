@@ -1,0 +1,21 @@
+﻿Title,Author,Type,Book_No,Downloads,Stories/Notes,OHCO Notes,,
+The Time Machine,H.G. Wells,Novel,35,7598,,_space + {RN}. + _space Epilogue,,
+The War of the Worlds,H.G. Wells,Novel,36,6743,,CHAPTER {RN}. + ALL CAPS TITLE ON NEXT LINE,,
+The Island of Doctor Moreau,H.G. Wells,Novel,159,3027,,INTRODUCTION. + {RN}.,,
+The Invisible Man,H.G. Wells,Novel,5230,2285,,CHAPTER {RN}. + THE EPILOGUE,,
+The World Set Free,H.G. Wells,Novel,1059,557,,"CHAPTER THE {FIRST, SECOND, ... FIFTH}",,Having issues parsing
+The Sleeper Awakens,H.G. Wells,Novel,12163,339,,CHAPTER {N},X,
+A Modern Utopia,H.G. Wells,Novel,6424,296,,"THE OWNER OF THE VOICE + CHAPTER THE {FIRST, SECOND, ... ELEVENTH,} + APPENDIX}",,
+The First Men in the Moon,H.G. Wells,Novel,1013,244,,{RN}. +new space + Title on next line,x,Having issues parsing
+The War in the air,H.G. Wells,Novel,780,240,,CHAPTER {RN}. {Title},,
+Tono Bungay,H.G. Wells,Novel,718,199,Semi-autobiography,"CHAPTER THE {FIRST, SECOND, ... FOURTEENTH}, Also has some RN's in each chapter?",,
+Around the World in Eighty Days,Jules Verne,Novel,103,4685,,CHAPTER {RN}.,X,
+Twenty Thousand Leagues under the Sea,Jules Verne,Novel,164,2691,,CHAPTER {N},X,
+A Journey to the Centre of the Earth,Jules Verne,Novel,18857,1996,,CHAPTER {N},X,
+The Mysterious Island,Jules Verne,Novel,1268,1298,,Chapter {N},X,
+Off on a Comet,Jules Verne,Novel,1353,207,,CHAPTER {RN}. {Title},^CHAPTER\s+[IVXLCM]+\.,Need to redo chapters...
+The Undeground City,Jules Verne,Novel,1355,81,,CHAPTER {RN}.,X,
+Eight Hundred Leagues on the Amazon,Jules Verne,Novel,3091,80,,CHAPTER {RN}. {Title},,
+Five Weeks in a Balloon,Jules Verne,Novel,3526,433,,"CHAPTER {FIRST, SECOND, FORTY_FOURTH}.",,
+All Around the Moon,Jules Verne,Novel,16457,277,,PRELIMINARY CHAPTER + CHAPTER {RN}.,,
+Earth to the Moon,Jules Verne,Novel,44278,700,,_TAB +    CHAPTER {RN}.,,
