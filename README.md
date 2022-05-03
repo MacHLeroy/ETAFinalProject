@@ -23,10 +23,12 @@ This Github Repo contains all the code and data I used to complete my final proj
   * Outputs: wells-verne-W2V.csv, wells-verne-GENSIM_DOCS.csv
 * FP_8_WE_2.ipynb: Notebook used to create and explore word embedding models created for each individual author
   * Outputs: WELLS-W2V.csv, WELLS-VOCAB.csv, WELLS-GENSIM_DOCS.csv, VERNE-W2V.csv, VERNE-VOCAB.csv, VERNE-GENSIM_DOCS.csv
-* FP_9_SA.ipynb:
+* FP_9_SA.ipynb: Notebook used to perform sentiment analysis on a variety of documents on the corpus
   * Outputs: 
 
 ## Data
+
+GitHub can be a tricky place to host data. I have pushed all created data to this repo, but recommend you pull the code on this repo and run in order to recreate the data locally. This is the best way to ensure that none is lost in the mix. You can also pull my data from INSERT BOX LINK. 
 
 * HGWellsAndVerne: Source Text for the 20 (10 for Wells and 10 for Verne) books that comprise the Corpus. Books were downloaded using BookDownloader.Rmd, then books some had to be manually edited to make formatting work (change title names etc.) 
 * outout: all the output created by the notebooks above. See DataDictionary file in output for more information on individual files
