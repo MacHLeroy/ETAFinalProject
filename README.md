@@ -24,7 +24,7 @@ This Github Repo contains all the code and data I used to complete my final proj
 * FP_8_WE_2.ipynb: Notebook used to create and explore word embedding models created for each individual author
   * Outputs: WELLS-W2V.csv, WELLS-VOCAB.csv, WELLS-GENSIM_DOCS.csv, VERNE-W2V.csv, VERNE-VOCAB.csv, VERNE-GENSIM_DOCS.csv
 * FP_9_SA.ipynb: Notebook used to perform sentiment analysis on a variety of documents on the corpus
-  * Outputs: 
+  * Outputs: wells-verne-SA_TABLE.csv, wells-verne-SA_SENT_TABLE.csv
 
 ## Data
 
