@@ -1,7 +1,7 @@
 # ETAFinalProject
 Code and Data for Final project for Exploratory Text Analytics
 
-This Github Repo contains all the code and data I used to complete my final project for Exploratory Text Analytics. In this project, I explore the top 10 most popular novels (as measured by number of downloads on Project Gutenberg) of Jules Verne and H.G. Wells. Wells and Verne are referred to as the "Godfathers of Science Fiction," so this porject attempts to understand both the commonalities and differences in the way each wrote. 
+This Github Repo contains all the code and data I used to complete my final project for Exploratory Text Analytics. In this project, I explore the top 10 most popular novels (as measured by number of downloads on Project Gutenberg) of Jules Verne and H.G. Wells. Wells and Verne are referred to as the "Godfathers of Science Fiction," so this project attempts to understand both the commonalities and differences in the way each wrote. 
 
 ## Code/Notebooks
 
@@ -30,9 +30,9 @@ This Github Repo contains all the code and data I used to complete my final proj
 
 GitHub can be a tricky place to host data. I have pushed all created data to this repo, but recommend you pull the code on this repo and then download the source files from (https://virginia.box.com/s/qjumcigrgswjwpiqj7fra78zigsyclfn) and rerun all notebooks in order to recreate the data locally. This is the best way to ensure that none is lost in the mix. 
 
-* HGWellsAndVerne: Source Text for the 20 (10 for Wells and 10 for Verne) books that comprise the Corpus. Books were downloaded using BookDownloader.Rmd, then books some had to be manually edited to make formatting work (change title names etc.) 
-* outout: all the output created by the notebooks above. See DataDictionary file in output for more information on individual files
+* HGWellsAndVerne: Source Text for the 20 (10 for Wells and 10 for Verne) books that comprise the Corpus. Books were downloaded using BookDownloader.Rmd, then some books had to be manually edited to make formatting work (change title names etc.) 
+* outout: all the output created by the notebooks above. All can be recreated locally by doownloading source text files from box link above and running them through each notebook in order. 
 
 ## Final Report
 
-The final report can be found in XXX
+The final report can be found in FinalReport.pdf or by following this link (LINK)
